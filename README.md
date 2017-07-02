@@ -23,7 +23,7 @@ The last step is to install Bundler
 
 gem install bundler
 
-Installing Rails
+#Installing Rails
 
 Since Rails ships with so many dependencies these days, we're going to need to install a Javascript runtime like NodeJS. This lets you use Coffeescript and the Asset Pipeline in Rails which combines and minifies your javascript to provide a faster production environment.
 
