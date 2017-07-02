@@ -23,7 +23,7 @@ The last step is to install Bundler
 
 gem install bundler
 
-#Installing Rails
+# Installing Rails
 
 Since Rails ships with so many dependencies these days, we're going to need to install a Javascript runtime like NodeJS. This lets you use Coffeescript and the Asset Pipeline in Rails which combines and minifies your javascript to provide a faster production environment.
 
@@ -43,6 +43,6 @@ rbenv rehash
 Now that you've installed Rails, you can run the rails -v command to make sure you have everything installed correctly:
 
 rails -v
-# Rails 5.1.1
+#Rails 5.1.1
 
 If you get a different result for some reason, it means your environment may not be setup properly.
